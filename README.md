@@ -10,6 +10,21 @@
 # Twitter Sentiment Classifier
 Binary classification experiments for the Twitter dataset
 
+###  Notebook viewer
+
+‼️ Because of memory restrictions, GitHub and Browsers can't open  always big jupyter notebooks. 
+For this reason I have every notebook linked with the jupyter nbviewer in the following table. 
+If you have any problems opening the books, follow the links.
+
+|Notebook | Link to jupyter nbviewer |
+|----|----|
+| BiRNN_LSTM_GRU-BestModel.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/BiRNN_LSTM_GRU-BestModel.ipynb) |
+| BiRNN_LSTM_GRU-Experiments.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/BiRNN_LSTM_GRU-Experiments.ipynb) |
+| FeedForwardNN_GloVe.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/FeedForwardNN_GloVe.ipynb) |
+| FeedForwardNN_TfiDf.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/FeedForwardNN_TfiDf.ipynb) |
+| LogisticRegression.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/LogisticRegression.ipynb) |
+
+
 ---
 ## Logistic regression
 Developed a sentiment classifier using logistic regression for the Twitter sentiment classification dataset available in this [link](https://drive.google.com/file/d/1dTIWNpjlrnTQBIQtaGOh0jCRYZiAQO79/view?usp=sharing). I used the
