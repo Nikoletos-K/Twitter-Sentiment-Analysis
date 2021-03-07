@@ -7,7 +7,7 @@
 
 
 ---
-# Twitter Sentiment Classifier
+# Twitter Sentiment Analysis
 Binary classification experiments for the Twitter dataset
 
 ###  Notebook viewer
