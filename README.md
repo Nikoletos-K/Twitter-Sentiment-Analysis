@@ -18,11 +18,11 @@ If you have any problems opening the notebooks, follow the links.
 
 |Notebook | Link to jupyter nbviewer |
 |----|----|
-| BiRNN_LSTM_GRU-BestModel.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/BiRNN_LSTM_GRU-BestModel.ipynb) |
-| BiRNN_LSTM_GRU-Experiments.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/BiRNN_LSTM_GRU-Experiments.ipynb) |
-| FeedForwardNN_GloVe.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/FeedForwardNN_GloVe.ipynb) |
-| FeedForwardNN_TfiDf.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/FeedForwardNN_TfiDf.ipynb) |
-| LogisticRegression.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/LogisticRegression.ipynb) |
+| __BiRNN_LSTM_GRU-BestModel.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/BiRNN_LSTM_GRU-BestModel.ipynb) |
+| __BiRNN_LSTM_GRU-Experiments.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/BiRNN_LSTM_GRU-Experiments.ipynb) |
+| __FeedForwardNN_GloVe.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/FeedForwardNN_GloVe.ipynb) |
+| __FeedForwardNN_TfiDf.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/FeedForwardNN_TfiDf.ipynb) |
+| __LogisticRegression.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/LogisticRegression.ipynb) |
 
 
 ---
