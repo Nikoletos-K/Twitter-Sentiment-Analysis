@@ -17,7 +17,7 @@ For this reason I have every notebook linked with the ✔️ jupyter nbviewer �
 If you have any problems opening the notebooks, follow the links.  
 
 |Notebook | Link to jupyter nbviewer |
-|----|----|
+|:-:|:-:|
 | __BiRNN_LSTM_GRU-BestModel.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/BiRNN_LSTM_GRU-BestModel.ipynb) |
 | __BiRNN_LSTM_GRU-Experiments.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/BiRNN_LSTM_GRU-Experiments.ipynb) |
 | __FeedForwardNN_GloVe.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/FeedForwardNN_GloVe.ipynb) |
