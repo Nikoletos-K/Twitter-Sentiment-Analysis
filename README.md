@@ -13,8 +13,8 @@ Binary classification experiments for the Twitter dataset
 ###  Notebook viewer
 
 ‼️ Because of memory restrictions, GitHub and Browsers can't open  always big jupyter notebooks. 
-For this reason I have every notebook linked with the jupyter nbviewer in the following table. 
-If you have any problems opening the notebooks, follow the links.
+For this reason I have every notebook linked with the ✔️ jupyter nbviewer ✔️ in the following table. 
+If you have any problems opening the notebooks, follow the links.  
 
 |Notebook | Link to jupyter nbviewer |
 |----|----|
