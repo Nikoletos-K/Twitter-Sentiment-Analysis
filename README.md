@@ -35,7 +35,8 @@ Tf-Idf vectorization of the tweets. No pretrained vectors
 
 ### Evaluation
 Model metrics for evaluation: F1 score, Recall and Precision
-Results visualization: Confusion matrices
+
+Visualization: Confusion matrices
 
 ---
 
@@ -58,7 +59,8 @@ Vectorization made with GloVe (Stanford pre-trained embenddings)
 
 ### Evaluation
 Model metrics for evaluation: F1 score, Recall and Precision
-Results visualization: ROC curves, Loss vs Epochs, Accuracy vs Epochs and Confusion matrix
+
+Visualization: ROC curves, Loss vs Epochs, Accuracy vs Epochs and Confusion matrix
 
 ---
 
@@ -79,7 +81,8 @@ Pre-trained word embeddings (GloVe) as the initial embeddings to input on models
 
 ### Evaluation
 Model metrics for evaluation: F1 score, Recall and Precision
-Results visualization: ROC curves, Loss vs Epochs, Accuracy vs Epochs and Confusion matrix
+
+Visualization: ROC curves, Loss vs Epochs, Accuracy vs Epochs and Confusion matrix
 
 ---
 
