@@ -16,13 +16,15 @@ Binary classification experiments for the Twitter dataset
 For this reason I have every notebook linked with the ✔️ jupyter nbviewer ✔️ in the following table. 
 If you have any problems opening the notebooks, follow the links.  
 
-|Notebook | Link to jupyter nbviewer |
-|:-:|:-:|
-| __BiRNN_LSTM_GRU-BestModel.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/BiRNN_LSTM_GRU-BestModel.ipynb) |
-| __BiRNN_LSTM_GRU-Experiments.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/BiRNN_LSTM_GRU-Experiments.ipynb) |
-| __FeedForwardNN_GloVe.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/FeedForwardNN_GloVe.ipynb) |
-| __FeedForwardNN_TfiDf.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/FeedForwardNN_TfiDf.ipynb) |
-| __LogisticRegression.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/LogisticRegression.ipynb) |
+
+|Notebook | Link to jupyter nbviewer | Link to Colab |
+|:-:|:-:| :-:| 
+| __BiRNN_LSTM_GRU-BestModel.ipynb__  | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/BiRNN_LSTM_GRU-BestModel.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1xXIoCKbuI-46RLNUy-ANK0mH7Vks5DPg/view?usp=sharing) |
+| __BiRNN_LSTM_GRU-Experiments.ipynb__ | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/BiRNN_LSTM_GRU-Experiments.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1QAi4BWk4YgmWbR-WhO7cQfoH7314CPVa/view?usp=sharing) |
+| __FeedForwardNN_GloVe.ipynb__ |  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/FeedForwardNN_GloVe.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/106zQPt0H7PKVXwyJjZR1bXZrhEskhrkZ/view?usp=sharing) |
+| __FeedForwardNN_TfiDf.ipynb__ | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/FeedForwardNN_TfiDf.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1VEdLJaIr8xkMj6VYmyuSNfs7CzDJ_7kw/view?usp=sharing) |
+| __LogisticRegression.ipynb__ | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Nikoletos-K/Twitter-Sentiment-Analysis/blob/main/LogisticRegression.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/10EBO7COB6RVyJKFe70w80gk0nphv8yhr/view?usp=sharing) |
+
 
 
 ---
